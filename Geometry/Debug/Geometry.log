@@ -1,0 +1,8 @@
+﻿  Box.cpp
+  Cylinder.cpp
+c:\users\atieh\source\repos\geometry\geometry\cylinder.cpp(13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  Sphere.cpp
+  ThreeDimensional.cpp
+  Generating Code...
+  Geometry.vcxproj -> C:\Users\Atieh\source\repos\Geometry\Debug\Geometry.exe
