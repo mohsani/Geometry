@@ -1,2 +1,2 @@
 # Geometry
-Project for OOD 
+Geometry project for OOD which includes diffrent with geometric shapes.
